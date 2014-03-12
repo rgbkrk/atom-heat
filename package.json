@@ -1,14 +1,15 @@
 {
   "name": "heat",
   "main": "./lib/heat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Heat is hot",
-  "activationEvents": ["heat:toggle"],
+  "activationEvents": [
+    "heat:toggle"
+  ],
   "repository": "https://github.com/rgbkrk/atom-heat",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
